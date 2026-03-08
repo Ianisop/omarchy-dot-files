@@ -1,0 +1,1 @@
+/home/somethingfishy/.config/omarchy/current/theme/neovim.lua
